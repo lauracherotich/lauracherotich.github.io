@@ -13,7 +13,7 @@ Data Science is an interdisciplinary field that uses scientific methods, algorit
 Data Analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It is a key part of the data science workflow and helps organizations make sense of their data.
 
 ## What Do They Deal With?
-
+ 
 - **Data Collection:** Gathering raw data from various sources.
 - **Data Cleaning:** Removing errors and inconsistencies from data.
 - **Data Exploration:** Understanding patterns and trends in the data.
