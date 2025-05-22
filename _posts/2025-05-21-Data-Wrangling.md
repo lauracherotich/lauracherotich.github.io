@@ -1,8 +1,8 @@
 ---
 title: Data Wrangling
 date: 2025-05-21
-categories:
-tags: [Data Science, Data Analysis]
+categories: Data Cleaning, Data Preparation
+tags: Data Science, Data Analysis
 ---
 ## What is Data Wrangling?
 
