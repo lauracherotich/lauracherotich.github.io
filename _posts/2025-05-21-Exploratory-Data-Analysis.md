@@ -1,8 +1,8 @@
 ---
-title:Exploratory Data Analysis
-date:2025-05-21
-categories: [Data Analysis, Data Prediction]
-tags: [Data Science, Data Visualization]
+title: Exploratory Data Analysis
+date: 2025-05-21
+categories: Data Analysis, Data Prediction
+tags: Data Science, Data Visualization
 ---
 
 ## What is Exploratory Data Analysis
